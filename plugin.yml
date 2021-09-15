@@ -1,0 +1,6 @@
+name: AutoResponse
+author: GovernedPie
+version: 1.0.0
+api: 3.0.0
+main: auto\main
+description: Have a conversation with the server! (Type 'Hello' to begin! (; )
